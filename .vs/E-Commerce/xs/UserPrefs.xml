@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{06C8ACAF-EB4F-40F2-B0DD-74C718A8E454}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="E-Commerce/Models/Cart.cs">
+    <Files>
+      <File FileName="E-Commerce/Models/Cart.cs" Line="4" Column="10" />
+      <File FileName="E-Commerce/Controllers/ValuesController.cs" Line="1" Column="1" />
+      <File FileName="E-Commerce/Program.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.E-Commerce PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
