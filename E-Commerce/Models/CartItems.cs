@@ -1,13 +1,12 @@
 ﻿using System;
 namespace E_Commerce.Models
 {
-    public class Cart
+    public class CartItems
     {
         public int id { get; set; }
         public string cart_guid { get; set; }
         public int product_id { get; set; }
         public int product_quantity { get; set; }
-        public string product_name { get; set; }
+    
     }
 }
-
